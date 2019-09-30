@@ -10,7 +10,7 @@ This gameplay portfolio contains 2 games and one tech demo, all made in Unity En
 
 # Block Bros Ultimate
 
---- BBU's GIF should go here ---
+![BBU1](https://user-images.githubusercontent.com/32497016/65924181-72b13780-e3a0-11e9-9ebc-8854aeb40b47.gif)
 
 Code Link: https://github.com/jadavs/BlockBrosUltimate
 
