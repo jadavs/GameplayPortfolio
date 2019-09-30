@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Sidd's Gameplay Programming Portfolio
 
-You can use the [editor on GitHub](https://github.com/jadavs/GameplayPortfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Watch the demo reel on youtube to get a glimpse of each project at:
+https://youtu.be/5RrtTK85uQ0
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This gameplay portfolio contains 2 games and one tech demo:
+1) Block Bros Ultimate
+2) Battery Hero
+3) RPG Demo
 
-### Markdown
+# Block Bros Ultimate
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+This is a 2D PVP Shooter based on the concept of combining 2 genres such as fighting and fps.
+The game was made in Unity and is part of
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jadavs/GameplayPortfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
