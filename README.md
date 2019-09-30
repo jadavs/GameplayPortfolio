@@ -29,7 +29,7 @@ in the next 3 months.
 
 # Battery Hero
 
---- BH GIF should go here ---
+![Anim1](https://user-images.githubusercontent.com/32497016/65923341-70011300-e39d-11e9-9c04-6c3b3e7f42cc.gif)
 
 Code Link: https://github.com/jadavs/BatteryHero
 
