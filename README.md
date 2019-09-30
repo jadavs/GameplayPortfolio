@@ -12,7 +12,7 @@ This gameplay portfolio contains 2 games and one tech demo, all made in Unity En
 
 --- BBU's GIF should go here ---
 
-Code Link: 
+Code Link: https://github.com/jadavs/BlockBrosUltimate
 
 This is a **2D PVP Shooter** based on the concept of combining 2 genres such as fighting and fps.
 I tried to collude smash bros and COD into a fun game that can be played with a local friend. 
@@ -31,13 +31,12 @@ in the next 3 months.
 
 --- BH GIF should go here ---
 
-Code Link: 
+Code Link: https://github.com/jadavs/BatteryHero
 
 This is a **3D 3D PvE FPS Shooter** with the objective of keeping the in-game electricity charge up.
 The mimics spawning, suck out the electricity in the room and your objective is to shoot them, hence stealing
 their orange orbs which can then be used to recharge the electricity through the generator. It's a mini-game based
 on the Final Fantasy 12 Barheim Passage Dungeon. 
-
 
 
 [Link](url) and ![Image](src)
