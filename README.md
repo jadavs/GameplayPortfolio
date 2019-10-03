@@ -12,6 +12,8 @@ This gameplay portfolio contains 2 games and one tech demo, all made in Unity En
 
 ![BBU1](https://user-images.githubusercontent.com/32497016/65924181-72b13780-e3a0-11e9-9ebc-8854aeb40b47.gif)
 
+![Game Directions](https://user-images.githubusercontent.com/32497016/66102391-0fbdcd00-e567-11e9-9f2c-45735ace2d1b.png)
+
 Code Link: https://github.com/jadavs/BlockBrosUltimate
 
 This is a **2D PVP Shooter** based on the concept of combining 2 genres such as fighting and fps.
